@@ -1,5 +1,5 @@
 # amazon-review-scrapper
-###Prerequisite:
+### Prerequisite:
 Tested Python version 3.7
 
 Install requirements.txt file
